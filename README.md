@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/amiller3/Space%20Game%20-%20Web/_apis/build/status%2FAidenMiller123.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/amiller3/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=refs%2Fpull%2F2%2Fmerge)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
